@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boya Zhang.
-- 📫 How to reach me boya.zhang@vub.be
+- 📫 How to reach me boya.zhang3@gmail.com
 
 <!---
 tinaboya/tinaboya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
