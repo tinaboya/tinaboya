@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boya Zhang.
+- 👋 Hi, I’m Boya Zhang, PhD student at University of Geneva, Switzerland.
 - 📫 How to reach me boya.zhang3@gmail.com
 
 <!---
